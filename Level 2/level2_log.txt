@@ -1,0 +1,11 @@
+[2025-08-22 12:34:56] USER: What is 12 times 7?
+[2025-08-22 12:34:56] ASSISTANT: Calculator result: 84
+
+[2025-08-22 12:34:56] USER: Add 45 and 30
+[2025-08-22 12:34:56] ASSISTANT: Calculator result: 75
+
+[2025-08-22 12:34:56] USER: What is the capital of France?
+[2025-08-22 12:34:56] ASSISTANT: Answer: Paris
+
+[2025-08-22 12:34:56] USER: Multiply 9 and 8, and also tell me the capital of Japan.
+[2025-08-22 12:34:56] ASSISTANT: I can do a single task at a time at Level 2. Multi-step mixed queries aren't supported yet.
